@@ -1,0 +1,6 @@
+{collection:"User",total:3}
+{name:"w",password:"w",email:"w",phone:"w"}
+{name:"a",password:"a",email:"a",phone:"a"}
+{name:"r",password:"r",email:"r",phone:"r"}
+{collection:"Meeting",total:1}
+{sponsor:"a",participator:"w",sdate:"1311-11-11/11:11",edate:"1411-11-11/11:11",title:"no"}
